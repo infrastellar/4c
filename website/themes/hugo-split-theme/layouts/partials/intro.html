@@ -1,5 +1,8 @@
 <div class="intro">
-  {{ with .Params.logo }}<img class="logo" src="{{ . }}"></img>{{ end }}
+  {{ with .Params.logo }}<img class="logo" style="float:center;height:40%;width:40%;" src="{{ . }}"></img>{{ end }}
+  <div class="mission">
+    {{ with .Params.mission }}<h3>{{ . }}</h3>{{ end }}
+  </div>
   <!-- {{ with .Title }}<h1 class="name">{{ . }}</h1>{{ end }}
   {{ with .Params.tagline }}<h2 class="tagline"><strong class="bold-text">{{ . }}</strong></h2>{{ end }} -->
 </div>

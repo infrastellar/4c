@@ -2,14 +2,10 @@
     background-color: rgb(158	135	88);
 }
 
-.name {
-    color: #333;
-}
-
-.tagline {
-    color: #171717;
-    font-size: 58px;
-    line-height: 100%;
+.bio {
+  display: block;
+  height: auto;
+  float: left;
 }
 
 .bio p {
@@ -25,14 +21,25 @@
     font-weight: normal;
 }
 
-.bio .logo img {
-    height:auto;
-    width:40%
-}
-
 b strong {
     color: #000;
     font-weight: bold;
+}
+
+.intro {
+  width: 100%;
+  text-align: center;
+}
+
+.intro .logo img {
+  display:block;
+}
+
+.mission h3 {
+  color: #eee;
+  font-family: Lora, sans-serif;
+  font-size: 46px;
+  line-height: 100%;
 }
 
 .rightcontent {
