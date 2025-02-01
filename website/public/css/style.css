@@ -1,0 +1,17 @@
+.body {
+    background-color: #80806B;
+}
+
+.name {
+    color: #000;
+}
+
+.bio p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+}
+
+b strong {
+    color: #dddddd;
+    font-weight: bold;
+}

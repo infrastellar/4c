@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "https://4clansing.org"
 languageCode = "en-US"
-title = "4C Lansing, MI"
+title = "Connecting. Learning. Growing."
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
 disableHugoGeneratorInject = true
@@ -38,7 +38,7 @@ copyright = "&copy;2025 Cross-Cultural Community Connections"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/background.jpg"
+      file = "images/background.png"
       position = "center center"
 
     # Video
@@ -48,6 +48,9 @@ copyright = "&copy;2025 Cross-Cultural Community Connections"
     #   file = "videos/background.mp4"
     #   # youtubeId = "dk9uNWPP7EA"
 
+  [params.custom.css]
+  enable = true
+
   # Links
   #
   # Links List #1
@@ -56,52 +59,43 @@ copyright = "&copy;2025 Cross-Cultural Community Connections"
       heading = "Connect"
 
       [[params.links.list1.link]]
-        text = "Blog"
-        url = "#"
-        new_tab = true # new tab
-
-      [[params.links.list1.link]]
         text = "Email"
-        url = "#"
+        url = "mailto:4clansing.org@gmail.com"
         new_tab = false # Default, open at same tab
 
       [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
+        text = "Facebook"
+        url = "https://www.facebook.com/cross.cultural.community.connections"
+        new_tab = true # Default, open at same tab
+
 
   # Links List #2
   [[params.links]]
     [params.links.list2]
-      heading = "Social"
+      heading = "Learn"
 
       [[params.links.list2.link]]
-        text = "Twitter"
+        text = "About"
         url = "#"
 
       [[params.links.list2.link]]
-        text = "Instagram"
+        text = "Mission"
         url = "#"
 
-      [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
-
-  # Links List #3
+  # Links List #2
   [[params.links]]
     [params.links.list3]
-      heading = "Network"
+      heading = "Grow"
 
       [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
-
+        text = "Appointments"
+        url = "link_to_form"
+        new_tab = true # Default, open at same tab
+        
       [[params.links.list3.link]]
-        text = "Link Two"
+        text = "Resources"
         url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
+        new_tab = true # Default, open at same tab
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
