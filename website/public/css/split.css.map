@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "split.css",
-	"sourceRoot": "/Users/asenchi/src/asenchi/4c/website",
+	"sourceRoot": "/Users/asenchi/src/infrastellar/4c/website",
 	"sources": [
 		"themes/hugo-split-theme/assets/scss/split.scss",
 		"themes/hugo-split-theme/assets/scss/_normalize.scss",
