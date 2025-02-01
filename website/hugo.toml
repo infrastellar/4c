@@ -111,3 +111,8 @@ copyright = "&copy;2025 Cross-Cultural Community Connections"
       X-Content-Type-Options = 'nosniff'
       X-Frame-Options = 'DENY'
       X-XSS-Protection = '1; mode=block'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

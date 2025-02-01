@@ -2077,13 +2077,13 @@ html {
   scrollbar-gutter: stable; }
 
 a {
-  color: #848D96;
+  color: #abcd7d;
   text-decoration: none; }
 
 .body {
   display: block;
   max-height: 100vh;
-  background-color: #0B1C2F;
+  background-color: #9e8758;
   font-family: Inter, sans-serif;
   animation: fadein 2s; }
 
@@ -2112,7 +2112,7 @@ a {
 .name {
   margin-top: 0px;
   margin-bottom: 40px;
-  color: #47BEC7;
+  color: #333;
   font-size: 16px;
   font-weight: normal;
   line-height: 100%;
@@ -2124,36 +2124,36 @@ a {
 
 .tagline {
   margin-bottom: 40px;
-  color: #DDDDDD;
+  color: #171717;
   font-size: 58px;
   line-height: 100%; }
 
 .bio p {
   margin-bottom: 40px;
   font-family: Lora, sans-serif;
-  color: #848D96;
+  color: #171717;
   font-size: 21px;
   line-height: 140%; }
 
 .bio a {
-  border-bottom: 1px solid #848D96;
+  border-bottom: 1px solid #171717;
   text-decoration: none; }
 
 .bio a:hover {
-  color: #CA486d;
-  border-bottom: 1px solid #CA486d; }
+  color: #fff;
+  border-bottom: 1px solid #fff; }
 
 .bio h1, .bio h2, .bio h3, .bio h4, .bio h5, .bio h6 {
   font-family: Lora, sans-serif;
-  color: #848D96; }
+  color: #171717; }
 
 .bio ul, .bio ol, .bio pre {
-  color: #848D96; }
+  color: #171717; }
 
 .text-block {
   margin-top: 0px;
   margin-bottom: 20px;
-  color: #485462;
+  color: #171717;
   font-size: 12px;
   font-weight: normal;
   line-height: 12px;
@@ -2162,15 +2162,15 @@ a {
 
 .list {
   font-family: Lora, sans-serif;
-  color: #848D96;
+  color: #171717;
   font-size: 16px;
   line-height: 160%; }
 
 .list a:hover {
-  color: #CA486d; }
+  color: #fff; }
 
 .credit {
-  color: #485462;
+  color: #171717;
   font-size: 13px; }
 
 .rightcontent {
@@ -2217,10 +2217,10 @@ a {
   flex: 0 auto; }
 
 .credit-links {
-  color: #485462; }
+  color: #171717; }
 
 .credit-links:hover {
-  color: #CA486d; }
+  color: #fff; }
 
 .image {
   position: -webkit-sticky;
