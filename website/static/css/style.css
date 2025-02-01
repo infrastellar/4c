@@ -1,13 +1,19 @@
 .body {
-    background-color: rgb(240 224 161);
+    background-color: rgb(158	135	88);
 }
 
 .name {
     color: #333;
 }
 
+.tagline {
+    color: #171717;
+    font-size: 58px;
+    line-height: 100%;
+}
+
 .bio p {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     color: #333;
 }
 
