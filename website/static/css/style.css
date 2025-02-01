@@ -1,17 +1,17 @@
 .body {
-    background-color: #80806B;
+    background-color: rgb(240 224 161);
 }
 
 .name {
-    color: #000;
+    color: #333;
 }
 
 .bio p {
     font-family: Arial, Helvetica, sans-serif;
-    color: red;
+    color: #333;
 }
 
 b strong {
-    color: #dddddd;
+    color: #000;
     font-weight: bold;
 }
