@@ -1,5 +1,5 @@
 .body {
-    background-color: rgb(158	135	88);
+    background-color: rgb(158 135 88);
 }
 
 .bio {
@@ -16,7 +16,7 @@
 .bio h2 {
     text-transform: uppercase;
     font-family: Inter, sans-serif;
-    color: rgb(171, 205, 125);
+    color: rgb(171 205 125);
     letter-spacing: 2px;
     font-weight: normal;
 }
