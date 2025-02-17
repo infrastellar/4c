@@ -2128,6 +2128,12 @@ a {
   font-size: 58px;
   line-height: 100%; }
 
+.mission h3 {
+  color: #eee;
+  font-family: Lora, sans-serif;
+  font-size: 46px;
+  line-height: 100%; }
+
 .bio p {
   margin-bottom: 40px;
   font-family: Lora, sans-serif;
@@ -2145,7 +2151,11 @@ a {
 
 .bio h1, .bio h2, .bio h3, .bio h4, .bio h5, .bio h6 {
   font-family: Lora, sans-serif;
-  color: #171717; }
+  color: #abcd7d;
+  text-transform: uppercase;
+  font-family: Inter, sans-serif;
+  letter-spacing: 2px;
+  font-weight: normal; }
 
 .bio ul, .bio ol, .bio pre {
   color: #171717; }

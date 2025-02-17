@@ -8,19 +8,6 @@
   float: left;
 }
 
-.bio p {
-    font-family: Lora, sans-serif;
-    color: #171717;
-}
-
-.bio h2 {
-    text-transform: uppercase;
-    font-family: Inter, sans-serif;
-    color: rgb(171 205 125);
-    letter-spacing: 2px;
-    font-weight: normal;
-}
-
 b strong {
     color: #000;
     font-weight: bold;
@@ -33,13 +20,6 @@ b strong {
 
 .intro .logo img {
   display:block;
-}
-
-.mission h3 {
-  color: #eee;
-  font-family: Lora, sans-serif;
-  font-size: 46px;
-  line-height: 100%;
 }
 
 .rightcontent {

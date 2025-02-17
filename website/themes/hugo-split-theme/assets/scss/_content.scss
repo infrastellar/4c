@@ -65,6 +65,13 @@ a {
   line-height: 100%;
 }
 
+.mission h3 {
+  color: $color-mission;
+  font-family: Lora, sans-serif;
+  font-size: 46px;
+  line-height: 100%;
+}
+
 .bio p {
   margin-bottom: 40px;
   font-family: Lora, sans-serif;
@@ -85,7 +92,11 @@ a {
 
 .bio h1, .bio h2, .bio h3, .bio h4, .bio h5, .bio h6 {
   font-family: Lora, sans-serif;
-  color: $color-text;
+  color: $color-headings;
+  text-transform: uppercase;
+  font-family: Inter, sans-serif;
+  letter-spacing: 2px;
+  font-weight: normal;
 }
 
 .bio ul, .bio ol, .bio pre {
