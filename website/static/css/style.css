@@ -10,13 +10,13 @@
 
 .bio p {
     font-family: Lora, sans-serif;
-    color: $color-text;
+    color: #171717;
 }
 
 .bio h2 {
     text-transform: uppercase;
     font-family: Inter, sans-serif;
-    color: $color-headings;
+    color: rgb(171, 205, 125);
     letter-spacing: 2px;
     font-weight: normal;
 }
