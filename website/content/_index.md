@@ -5,7 +5,7 @@ mission = "Our mission is to support, encourage and promote cross-cultural commu
 
 ## Connecting
 
-It is hard to live in a new culture. It helps to meet people you can trust and build friendships with them. We want to connect refugees with different cultures to help build community with each other.
+It is hard to live in a new culture. It helps to meet people and build friendships with them. We want to connect refugees with different cultures to help build community with each other.
 
 ## Learning & Growing
 
