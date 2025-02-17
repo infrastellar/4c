@@ -13,15 +13,6 @@ b strong {
     font-weight: bold;
 }
 
-.intro {
-  width: 100%;
-  text-align: center;
-}
-
-.intro .logo img {
-  display:block;
-}
-
 .rightcontent {
     padding: 60px;
 }

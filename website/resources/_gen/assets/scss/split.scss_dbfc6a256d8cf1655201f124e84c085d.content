@@ -2132,6 +2132,9 @@ a {
   width: 100%;
   text-align: center; }
 
+.intro .logo img {
+  display: block; }
+
 .mission h3 {
   color: #eee;
   font-family: Lora, sans-serif;
